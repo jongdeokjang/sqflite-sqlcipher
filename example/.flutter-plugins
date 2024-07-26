@@ -1,0 +1,4 @@
+# This is a generated file; do not edit or check into version control.
+integration_test=/Users/jaydenjang/DevEnv/flutter/packages/integration_test/
+sqflite=/Users/jaydenjang/.pub-cache/hosted/pub.dev/sqflite-2.3.3+1/
+sqflite_sqlcipher=/Users/jaydenjang/Project/iOS/SmartHQ3/Flutter/smarthq_flutter_module/packages/sqflite_sqlcipher/
